@@ -6,7 +6,7 @@ A full-stack LinkedIn-style social media platform where users can register, crea
 
 ## 🚀 Live Demo
 
-- **Frontend + Backend** (Render): [https://mini-linkedin-anjp.onrender.com](https://mini-linkedin-anjp.onrender.com)  
+- **Frontend + Backend** (Render): [https://mini-linkedin-mox4.onrender.com](https://mini-linkedin-mox4.onrender.com)  
   ⚠️ Please wait 2–3 minutes for the Render server to wake up.
 
 ---
